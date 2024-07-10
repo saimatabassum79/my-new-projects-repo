@@ -39,7 +39,7 @@ body{
     align-items: center;
     border-radius: 7px;
     color: black;
-    
+    opacity: 0.8;
     font-size: 16px;
      margin-right: 70px;
     border: 2px solid black;
@@ -56,25 +56,19 @@ body{
     background-image: url('../assets/Hero-bg.png');
     background-size: cover;
     
-
 }
 .future-developer-container-tittle img{
     height: 245px;
     width: 245px;
     margin-bottom: 25px;
     
-   
 }
 .future-developer-container-tittle h1{
     font-size: 34px;
     margin-bottom: 20px;
-   
+  
 }
 
-span{
-    margin-left: 330px;
-   
-}
 .future-developer-container-tittle p{
     font-size: 16px;
     color: #0D1321;
@@ -540,11 +534,14 @@ background: rgba(13, 19, 33, 0.03);
 
 }
 .footer-image h3{
-    color: rgb(13, 19, 33);
+    color: rgba(13, 19, 33, 0.4);
 font-family: Azeret Mono;
 font-size: 20px;
 font-weight: 600;
 }
 .footer-image img{
     padding: 7px;
+}
+span{
+    margin-left:330px;
 }
