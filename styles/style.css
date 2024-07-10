@@ -511,7 +511,7 @@ border-radius: 8px;
     color: rgb(13, 19, 33);
 
 }  
-.footer{
+#footer-id{
     width: 1340px;
     height: 120px;
     border: 1px solid rgb(248, 239, 239);
