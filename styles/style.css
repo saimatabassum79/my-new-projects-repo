@@ -517,4 +517,34 @@ border-radius: 8px;
     color: rgb(13, 19, 33);
 
 }  
+.footer{
+    width: 1340px;
+    height: 120px;
+    border: 1px solid rgb(248, 239, 239);
+    margin: 0 auto;
+    margin-top: 60px;
+    border-radius: 16px;
+background: rgba(13, 19, 33, 0.03);
+}
+.footer-section{
+    width: 1080px;
+    height: 60px;
+    /* border: 2px solid black; */
+    margin: 30px;
+    margin-left: 138px;
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 
+}
+.footer-image h3{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+}
+.footer-image img{
+    padding: 7px;
+}
