@@ -329,7 +329,10 @@ border: 1px solid rgba(13, 19, 33, 0.2);
     color: #0D1321;
     opacity: 0.7;
 }
-span{
+.my-inspiration-section span{
+    margin-left: 110px;
+}
+.my-current-target-section span{
     margin-left: 110px;
 }
 .my-current-target-container{
