@@ -1,0 +1,104 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Azeret Mono;
+    
+}
+.future-developer-container{
+    max-width: 1340px;
+    height: 720px;
+    margin: 0 auto;
+    
+}
+.future-developer-nav{
+    max-width: 1340px;
+    height: 125px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.future-developer-nav p{
+   
+    font-size: 22px;
+    padding-left: 100px;
+}
+.future-developer-nav .btn{
+    width: 220px;
+    height: 52px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    color: black;
+    
+    font-size: 16px;
+     margin-right: 70px;
+    border: 2px solid black;
+    padding-left: 5px;
+}
+.future-developer-container-tittle{
+    max-width: 1340px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    background-image: url('../assets/Hero-bg.png');
+    background-size: cover;
+    
+
+}
+.future-developer-container-tittle img{
+    height: 245px;
+    width: 245px;
+    margin-bottom: 25px;
+    
+   
+}
+.future-developer-container-tittle h1{
+    font-size: 34px;
+    margin-bottom: 20px;
+   
+}
+
+span{
+    margin-left: 330px;
+   
+}
+.future-developer-container-tittle p{
+    font-size: 16px;
+    color: #0D1321;
+    margin-bottom: 35px;
+    font-weight: 400;
+    opacity: 0.7;
+    
+}
+.future-developer-container-tittle-subtittle h1{
+    width: 225px;
+    height: 63px;
+    color: white;
+    margin-bottom: 500px;
+    
+    background-color: #0D1321;
+    padding:15px;
+    font-size: 15px;
+    font-weight: 600;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    margin-left: 540px;
+    margin-bottom: 1100px;
+    margin: 0 auto;
+
+}
